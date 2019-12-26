@@ -1,6 +1,6 @@
 # Regan McEntyre
 
-Hi, I'm Regan! I'm a software engineer based in Dunedin, New Zealand. Currently I'm a lead software engineer at [PocketSmith](https://www.pocketsmith.com)—smart tools that let you forge your own financial path.
+Hi, I'm Regan! I'm a software engineer based in Dunedin, New Zealand, experienced in backend web engineering. Currently I'm a lead software engineer at [PocketSmith](https://www.pocketsmith.com)—smart tools that let you forge your own financial path.
 
 ## Want to talk?
 
